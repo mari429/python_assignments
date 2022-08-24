@@ -1,0 +1,24 @@
+INFO 2022-08-03 20:39:19,701 root The largest number in the array is 84
+INFO 2022-08-03 20:40:49,935 root The largest number in the array is 100
+INFO 2022-08-03 20:45:07,528 root The largest number in the array is [27, 29, 45, 3, 4, 98, 56, 54, 100, 84, 5, 6, 7, 8, 9, 34]
+INFO 2022-08-03 20:46:08,480 root The largest number in the array is 100
+INFO 2022-08-03 21:08:37,946 root The largest number in the array is 98
+INFO 2022-08-03 21:10:26,703 root This array contains string in it
+INFO 2022-08-03 21:10:26,703 root The largest number in the array is 98
+INFO 2022-08-03 21:10:54,825 root This array contains string in it
+INFO 2022-08-03 21:10:54,825 root This array contains string in it
+INFO 2022-08-03 21:10:54,825 root The largest number in the array is 98
+INFO 2022-08-03 21:14:10,652 root This array has %s number of strings in it
+INFO 2022-08-03 21:14:10,652 root The largest number in the array is 98
+INFO 2022-08-03 21:14:24,228 root This array has 2 number of strings in it
+INFO 2022-08-03 21:14:24,228 root The largest number in the array is 98
+INFO 2022-08-03 21:14:41,727 root This array has 2 strings in it
+INFO 2022-08-03 21:14:41,727 root The largest number in the array is 98
+INFO 2022-08-03 21:15:26,748 root This array has 2 non intergers in it
+INFO 2022-08-03 21:15:26,749 root The largest number in the array is 98
+INFO 2022-08-03 21:15:33,643 root This array has 2 non-intergers in it
+INFO 2022-08-03 21:15:33,643 root The largest number in the array is 98
+INFO 2022-08-03 21:42:55,747 root This array has 2 non-intergers in it
+INFO 2022-08-03 21:42:55,754 root The largest number in the array is 98
+INFO 2022-08-21 20:51:12,796 root This array has 2 non-intergers in it
+INFO 2022-08-21 20:51:12,796 root The largest number in the array is 98
